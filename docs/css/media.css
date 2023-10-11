@@ -1,0 +1,54 @@
+@media (max-width:700px){
+    .title-1 {
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .header-heading{
+        font-size: 34px;
+        line-height: 1;
+    }
+    .heading-small{
+        font-size: 28px;
+    }
+
+    .header-content{
+        padding: 100px 0 70px 0;
+    }
+
+    .services{
+        padding: 60px 0;
+    }
+
+    .portfolio{
+        padding: 60px 0;
+    }
+
+    .portfolio-title {
+        margin-bottom: 50px;
+    }
+    .project-title{
+        font-size: 20px;
+    }
+
+    
+    .project + .project{
+        margin-top: 55px;
+    }
+
+    .contacts{
+        padding: 60px 0;
+    }
+    .contacts-title{
+        margin-bottom: 20px;
+    }
+    .contacts-content{
+        margin-bottom: 20px;
+    }
+
+    .contacts-button {
+        margin-bottom: 70px;
+    }
+    .contacts-social {
+        column-gap: 20px;
+    }
+}
